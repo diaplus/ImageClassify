@@ -1,0 +1,19 @@
+# αγνόησε checkpoints από Jupyter
+.ipynb_checkpoints/
+
+# cache από Python
+__pycache__/
+*.py[cod]
+
+# κρυφά αρχεία macOS ή Windows
+.DS_Store
+Thumbs.db
+
+# φάκελοι virtualenv (αν χρησιμοποιήσεις)
+venv/
+.env/
+
+# μεγάλα αρχεία ή δεδομένα που δε θέλεις να ανέβουν
+*.csv
+*.h5
+*.zip
